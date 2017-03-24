@@ -9,9 +9,9 @@ void Hello()
 
 int main()
 {
-  printf("hello world");
-printf("hello world");
-printf("hello world");
+  printf();
+printf();
+printf();
 }
 
 inintail
